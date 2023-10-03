@@ -1,0 +1,11 @@
+__pycache__/
+scratch/
+*.pyc
+.DS_Store
+.envrc
+.idea
+.profiles/
+.pytest_cache
+.tool-versions
+.ruff_cache
+.venv
